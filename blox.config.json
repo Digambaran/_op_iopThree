@@ -1,0 +1,1 @@
+{"name":"iop","type":6,"source":{"https":"","ssh":"git@github.com:Digambaran/_hk_iop.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
